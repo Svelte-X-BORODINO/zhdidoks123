@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhdidoks123
+- 👋 Hi, I’m @Svelte-X-BORODINO
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate on nothing)
